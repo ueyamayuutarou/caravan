@@ -1,0 +1,12 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing: border-box;
+}
+
+.box1 {
+	height:200px;
+	background-image:url(img/japan.jpg);
+	background-size: cover;
+	background-position:center;
+}
